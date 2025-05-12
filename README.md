@@ -25,16 +25,19 @@ Users should be able to:
 ### Screenshot
 
 <figure>
+  <figcaption>Mobile Screen Size</figcaption>
   <img src="./result/result-mobile.png" alt="mobile screen size">
-  <figcaption>แผนภาพระบบที่แสดงการเชื่อมต่อระหว่างโมดูลต่าง ๆ</figcaption>
 </figure>
 
-*Medium Screen Size*
-![medium screen](./result/result-narrow.png)
+<figure>
+  <figcaption>Medium Screen Size</figcaption>
+  <img src="./result/result-narrow.png" alt="medium screen size">
+</figure>
 
-*Desktop Screen Size*
-![wide screen](./result/result-wide.png)
-
+<figure>
+  <figcaption>Desktop Screen Size</figcaption>
+  <img src="./result/result-wide.png" alt="desktop screen size">
+</figure>
 
 ### Links
 
