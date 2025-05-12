@@ -26,17 +26,17 @@ Users should be able to:
 
   <figure>
       <figcaption>Mobile Screen Size</figcaption>
-      <img src="./result/result-mobile.png" alt="mobile screen size">
+      <img src="./result/result-mobile.png" alt="mobile screen size" style="width:250px;">
   </figure>
 
   <figure>
       <figcaption>Medium Screen Size</figcaption>
-      <img src="./result/result-narrow.png" alt="medium screen size">
+      <img src="./result/result-narrow.png" alt="medium screen size" style="width:300px;">
   </figure>
 
   <figure>
       <figcaption>Desktop Screen Size</figcaption>
-      <img src="./result/result-wide.png" alt="desktop screen size">
+      <img src="./result/result-wide.png" alt="desktop screen size" style="width:400px;">
   </figure>
 
 ### Links
