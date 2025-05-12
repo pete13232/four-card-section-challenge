@@ -24,20 +24,20 @@ Users should be able to:
 
 ### Screenshot
 
-<figure>
-  <figcaption>Mobile Screen Size</figcaption>
-  <img src="./result/result-mobile.png" alt="mobile screen size">
-</figure>
+  <figure>
+      <figcaption>Mobile Screen Size</figcaption>
+      <img src="./result/result-mobile.png" alt="mobile screen size">
+  </figure>
 
-<figure>
-  <figcaption>Medium Screen Size</figcaption>
-  <img src="./result/result-narrow.png" alt="medium screen size">
-</figure>
+  <figure>
+      <figcaption>Medium Screen Size</figcaption>
+      <img src="./result/result-narrow.png" alt="medium screen size">
+  </figure>
 
-<figure>
-  <figcaption>Desktop Screen Size</figcaption>
-  <img src="./result/result-wide.png" alt="desktop screen size">
-</figure>
+  <figure>
+      <figcaption>Desktop Screen Size</figcaption>
+      <img src="./result/result-wide.png" alt="desktop screen size">
+  </figure>
 
 ### Links
 
