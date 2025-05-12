@@ -24,12 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
+*Mobile Screen Size*
 ![mobile](./result/result-mobile.png)
-* Mobile Screen Size *
+
+*Medium Screen Size*
 ![medium screen](./result/result-narrow.png)
-* Medium Screen Size *
+
+*Desktop Screen Size*
 ![wide screen](./result/result-wide.png)
-* Desktop Screen Size *
+
 
 ### Links
 
