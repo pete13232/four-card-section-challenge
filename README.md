@@ -24,8 +24,10 @@ Users should be able to:
 
 ### Screenshot
 
-*Mobile Screen Size*
-![mobile](./result/result-mobile.png)
+<figure>
+  <img src="./result/result-mobile.png" alt="mobile screen size">
+  <figcaption>แผนภาพระบบที่แสดงการเชื่อมต่อระหว่างโมดูลต่าง ๆ</figcaption>
+</figure>
 
 *Medium Screen Size*
 ![medium screen](./result/result-narrow.png)
